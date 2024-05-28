@@ -1,0 +1,4 @@
+# Syntax Coloring Map For RobotClass Gauge
+
+# Datatypes (KEYWORD1)
+RobotClass_Gauge	KEYWORD1
